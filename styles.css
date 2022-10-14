@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Righteous&family=Roboto&family=Ubuntu&display=swap');body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.head{
+    background-color: #fbbf24;
+    border-bottom-left-radius: 1rem;
+    color: white;
+}
+.blog-head{
+    text-align: center;
+    color: 
+    #6b7280;
+}
+.head-class{
+
+    padding: 0.5rem 0.5rem;
+    font-size: large;
+    font-weight: bold;
+   }
+   .head-nav{
+       text-align: right;
+   }
+   .nav-bar{
+   text-decoration: none;  
+    
+   }
+   .head .nav-element{
+      
+       padding: 0rem 2rem;
+       display: inline-block;
+       color: white;
+   }
+   
+   .head .nav-bar{
+       color: white;
+   }
+   .head-nav .active-link{
+       font-weight: bold;
+   }
+   .blog-img {
+    max-width: 450px;
+    display: block;
+    margin: auto;
+}
+   .footer{
+    background-color: #fbbf24;
+    padding: 0.5rem 0.5rem;
+    color: white;
+    text-align: center;
+    border-top-right-radius: 1rem;
+}
+.footer-bar{
+    text-decoration: none;
+    color: white;
+    padding: 1rem 2rem;
+}
+.text{
+    color: darkgray;
+    text-align: center;
+}
+.blog-para{
+    padding: 2rem 8rem;
+    font-size: large;
+}
+.highlited-text{
+    color: #fbbf24;
+}
